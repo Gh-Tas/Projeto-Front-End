@@ -1,0 +1,16 @@
+Integrantes: Alisson Mikael, Guilherme Melo, Deiwid Eduardo e Carlos Daniel
+
+Descrição do problema: Sistema descentralizado para gerenciar de forma simples e eficiente as reservas de hospedagens da pousada.
+Registros manuais e planilhas pouco eficiente, ocorre erro de agendamento, duplicação de reservas e perda de informações importantes.
+
+Objetivo da solução:
+
+
+Wireframe explicado: Login dos funcionários utilizando CPF e senha própria, separados por turnos. O site possui gráficos em porcentagem
+da situação dos quartos livres, check-in e check-out para maior eficiência no gerenciamento das reservas da pousada. Sistema de
+cadastro de cliente onde o funcionário poderá cadastrar clientes com suas informações de contato, nome, tipo de quarto e quantos dias
+deseja alugar. Sistema de reservas, onde o funcionário poderá olhar e gerenciar todos os quartos do hotel, com informações como o
+número do quarto, status ocupado/livre, quantidade de pessoas usando o quarto, tipo de quarto e sua descrição e as informações dos
+hóspedes. Os quartos são separados em letras e números (exemplo A01) sendo os quartos A os mais básicos e os outros mais luxuosos.
+
+Wireframe: https://www.figma.com/design/F0xjICNdUa93JdKY7HGRno/Untitled?t=tnMzK6jZFvzPL3gp-1
