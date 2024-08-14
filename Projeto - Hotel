@@ -3,7 +3,9 @@ Integrantes: Alisson Mikael, Guilherme Melo, Deiwid Eduardo e Carlos Daniel
 Descrição do problema: Sistema descentralizado para gerenciar de forma simples e eficiente as reservas de hospedagens da pousada.
 Registros manuais e planilhas pouco eficiente, ocorre erro de agendamento, duplicação de reservas e perda de informações importantes.
 
-Objetivo da solução:
+Objetivo da solução: gerenciar de forma simples e eficiente as reservas de hospedagens da pousada, assim a equipe da pousada terá uma
+organização melhor em gerenciar os clientes.
+Redução de tempo gasto com processos manuais eficácia no controle das reservas e hóspedes.
 
 
 Wireframe explicado: Login dos funcionários utilizando CPF e senha própria, separados por turnos. O site possui gráficos em porcentagem
